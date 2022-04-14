@@ -1,16 +1,37 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DooNas's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-<!--
-**DooNas/DooNas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <div>
+    <img src="./img/profile1.png" width ="16.5%" style = "float:left; padding:1%;">
+  <div style="padding:1%;">
+    <h2> Hello Everyone! </h2>
+    
+    I'm a Beginner Programmer.
+    I My Favorite Food is Donut. 🍩
+  </div>
+    </br>
+  </div>
+</div>
 
-Here are some ideas to get you started:
+<div align=center style ="clear:left;" >
+  </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h1> Practic Stack 💪</h1>
+  <div align=center>
+    <!--.Net-->
+    <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>&nbsp
+    <!--Android-->
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>&nbsp
+    <!--Java-->
+    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>&nbsp
+    <!--Kotlin-->
+    <img src="https://img.shields.io/badge/Kolin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp
+  </div>
+  </br>
+  </br>
+
+  ![DooNas's github stats](https://github-readme-stats.vercel.app/api?username=DooNas&count_private=true&show_icons=true&theme=react)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DooNas&layout=compact&theme=react)
+
+</div>
