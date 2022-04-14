@@ -1,13 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DooNas's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <div>
-  <div>
-    <img src="./img/profile1.png" width ="16.5%" style = "float:left; padding:1%;">
+  <div align=center>
+    <img src="./img/profile.png"style = "width:100px;height:100px;padding:1%;align=left;">
+    <img src="./img/profile1.png"style = "width:100px;height:100px;padding:1%;align=left;">
+    <img src="./img/profile2.png"style = "width:100px;height:100px;;padding:1%;align=left;">
+    <img src="./img/profile3.png"style = "width:100px;height:100px;;padding:1%;align=left;">
   <div style="padding:1%;">
     <h2> Hello Everyone! </h2>
-    
+
     I'm a Beginner Programmer.
     I My Favorite Food is Donut. 🍩
+
   </div>
     </br>
   </div>
