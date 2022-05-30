@@ -47,7 +47,7 @@
 |:---:|:---:|:---:|:---:|
 |[TomatoTimer](https://github.com/DooNas/TomatoTimer)|Toy Project|Java / Swing| 저의 첫 자바를 활용한 프로젝트 |
 |[OpenApi_CoronaChart](https://github.com/DooNas/TIL/tree/main/C%23/MiniProject/OpenAPI)|Toy Project|C# / .Net / OpenApi|공공데이터 포털의 코로나 확진자 데이터를 <br>가져와 이를 차트화 하는 프로그램|
-|[Daelimi_WinForm](https://github.com/DooNas/Daelimi)|Team Project|C# / .Net / WinForm|대림대학 FAQ 챗봇 윈도우 프로그램|
+|[Daelimi_WinForm](https://github.com/DooNas/Daelimi_WinForm)|Team Project|C# / .Net / WinForm|대림대학 FAQ 챗봇 윈도우 프로그램|
 
 
   </br>
