@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DooNas's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
+[![조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDooNas&count_bg=%23AEAE&title_bg=%23E97C00&icon=&icon_color=%23E7E7 =hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <div>
   <div align=center>
     <img src="./img/profile.png"style = "width:100px;height:100px;padding:1%;align=left;">
